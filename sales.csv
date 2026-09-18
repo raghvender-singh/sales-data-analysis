@@ -1,0 +1,11 @@
+Order_ID,Date,Product,Category,City,Quantity,Unit_Price
+1001,2026-01-05,Laptop,Electronics,Delhi,2,55000
+1002,2026-01-07,Mouse,Electronics,Kanpur,5,800
+1003,2026-01-10,Chair,Furniture,Lucknow,3,4500
+1004,2026-01-12,Keyboard,Electronics,Delhi,4,1500
+1005,2026-01-15,Desk,Furniture,Kanpur,2,7000
+1006,2026-01-18,Monitor,Electronics,Lucknow,3,12000
+1007,2026-01-20,Notebook,Stationery,Delhi,10,120
+1008,2026-01-23,Pen,Stationery,Kanpur,20,30
+1009,2026-01-25,Laptop,Electronics,Lucknow,1,55000
+1010,2026-01-28,Chair,Furniture,Delhi,4,4500

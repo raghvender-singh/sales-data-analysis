@@ -65,6 +65,21 @@ The project includes the following visualizations:
 - Average Order Value (AOV) by City
 - Quantity Sold by Product
 
+- ### Revenue by Category
+![Revenue by Category](revenue_by_category.png)
+
+### Revenue by City
+![Revenue by City](revenue_by_city.png)
+
+### Revenue by Product
+![Revenue by Product](revenue_by_product.png)
+
+### Average Order Value by City
+![Average Order Value by City](aov_by_city.png)
+
+### Quantity Sold by Product
+![Quantity Sold by Product](quantity_sold_by_product.png)
+
 ## How to Run
 
 1. Clone or download this repository.
